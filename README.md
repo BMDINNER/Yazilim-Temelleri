@@ -1,5 +1,5 @@
 # Yazilim-Temelleri
-İsledigimiz konulari olabildigince aciklamaya  calistim orneklerle zaten bilen de üstüne ekleme yapabilir hatta yapsın lütfen
+Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz.
 
 ## Konular
 - [Değişkenler](https://github.com/BMDINNER/Yazilim-Temelleri/tree/main/Python/Degiskenler)
