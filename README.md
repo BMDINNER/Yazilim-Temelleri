@@ -27,3 +27,12 @@ Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz. [
 - https://codingbat.com/python
 - https://docs.python.org/3/
 - https://www.learnpython.org/
+- Udemy ve BTK Akademideki kurslar
+
+## C#
+- https://csharp-station.com/
+- https://learn.microsoft.com/tr-tr/training/paths/get-started-c-sharp-part-1/
+- https://www.sololearn.com/en/learn/courses/c-sharp-introduction
+- https://www.w3schools.com/cs/index.php
+- https://www.learncs.org/
+- Udemy ve BTK Akademideki kurslar
