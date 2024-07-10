@@ -17,3 +17,9 @@ Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz. [
 
 
 # Ekstra Kaynaklar
+## Python
+- https://www.pythoncheatsheet.org/
+- https://edabit.com/challenges/python3
+- https://codingbat.com/python
+- https://docs.python.org/3/
+- https://www.learnpython.org/
