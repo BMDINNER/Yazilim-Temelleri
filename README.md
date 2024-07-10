@@ -4,6 +4,6 @@ Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz. [
 ## Konular
 - [Değişkenler](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/Degiskenler/Python_degiskenler1.pdf) >>> [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=V1c0MzR8qo8)
 - [Stringler](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/Stringler/Python_Stringler.pdf) >>>>> Stringler konusunun ilk sayfasından sonra [Arrayler](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/Arrayler/Python_Array1.pdf) dosyasına göz atmanız daha anlaşılır hale getirir. >>> [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=xlZ0B8zKtCI)
-- [Arrayler](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/Arrayler/Python_Array1.pdf) [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=25rcNzFyO3M)
-- [If-Else-Elif](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/If-Else-Elif/if_else1.pdf) [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=GqcPVXEcpK4&list=PLvd8g-uBpagQYhnELkaFcm7te1oqrHCnC&index=7)
+- [Arrayler](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/Arrayler/Python_Array1.pdf) >>> [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=25rcNzFyO3M)
+- [If-Else-Elif](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/If-Else-Elif/if_else1.pdf) >>> [Konuyla ilgili izlenebilecek video](https://www.youtube.com/watch?v=GqcPVXEcpK4&list=PLvd8g-uBpagQYhnELkaFcm7te1oqrHCnC&index=7)
 
