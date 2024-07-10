@@ -1,5 +1,5 @@
 # Yazilim-Temelleri
-Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz.
+Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz. [Şu şekilde](https://github.com/BMDINNER/Yazilim-Temelleri/blob/main/Python/images/%C3%B6nerme.png)
 
 ## Konular
 - [Değişkenler](https://github.com/BMDINNER/Yazilim-Temelleri/tree/main/Python/Degiskenler)
