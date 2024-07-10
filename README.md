@@ -14,6 +14,10 @@ Anlatım kısmında bulunan PDF leri indirip net bir şekilde okuyabilirsiniz. [
 
 
 
+## C# 
+### Konular
+
+
 
 
 # Ekstra Kaynaklar
